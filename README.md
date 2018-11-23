@@ -1,4 +1,4 @@
-# unityVR
+# AthenaVR
 
 ******************************************
         Team 21 Athena VR project
