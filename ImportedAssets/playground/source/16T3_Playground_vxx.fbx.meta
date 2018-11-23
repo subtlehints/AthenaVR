@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: eefcad336945aad458573d1c957105f1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bubble1
+    100004: Bubble2
+    100006: Bubble3
+    100008: CAGE
+    100010: Cage1
+    100012: Cage2
+    100014: Cage3
+    100016: Cage4
+    100018: Cage5
+    100020: Cage7
+    100022: Cage8
+    100024: Cage9
+    100026: Door0
+    100028: Door0 1
+    100030: Door0 2
+    100032: Floor1
+    100034: Floor2
+    100036: Floor3
+    100038: Floor4
+    100040: Floor5
+    100042: Floor6
+    100044: MISC
+    100046: Pipe1
+    100048: Pipe2
+    100050: Pipe3
+    100052: Pipe4
+    100054: Pipe5
+    100056: Pipe6
+    100058: Pipe7
+    100060: PIPES
+    100062: Roof1
+    100064: Roof2
+    100066: Roof3
+    100068: Roof4
+    100070: SCAFFOLDS
+    100072: SlidePoly
+    100074: SmallBubble1
+    100076: SmallBubble2
+    100078: SmallBubble3
+    100080: SmallBubble4
+    100082: SmallBubble5
+    100084: SpacePod
+    100086: SpiralPoly
+    100088: SupportL1
+    100090: SupportL2
+    100092: SupportL3
+    100094: SupportL4
+    100096: SupportL5
+    100098: SupportL6
+    100100: SupportL7
+    100102: SupportL8
+    100104: SupportM1
+    100106: SupportM2
+    100108: SupportM3
+    100110: SupportM4
+    100112: SupportS1
+    100114: SupportS2
+    100116: SupportS3
+    100118: SupportS4
+    100120: TICTACTOE
+    100122: TicTacToe1
+    100124: TicTacToe1 1
+    100126: TicTacToe2
+    100128: TicTacToe2 1
+    100130: TicTacToe3
+    100132: TicTacToe3 1
+    100134: TicTacToe4
+    100136: TicTacToe4 1
+    100138: TicTacToe5
+    100140: TicTacToe5 1
+    100142: TicTacToe6
+    100144: TicTacToe6 1
+    100146: TicTacToe7
+    100148: TicTacToe7 1
+    100150: TicTacToe8
+    100152: TicTacToe8 1
+    100154: TicTacToe9
+    100156: TicTacToe9 1
+    100158: tower1
+    100160: tower2
+    100162: tower3
+    100164: tower4
+    100166: TOWERS
+    100168: Tube1
+    100170: Tube2
+    100172: Tube3
+    100174: TUBES
+    100176: TUNNELS
+    100178: Wall1
+    100180: Wall10
+    100182: Wall11
+    100184: Wall12
+    100186: Wall13
+    100188: Wall14
+    100190: Wall15
+    100192: Wall16
+    100194: Wall17
+    100196: Wall18
+    100198: Wall2
+    100200: Wall20
+    100202: Wall21
+    100204: Wall22
+    100206: Wall24
+    100208: Wall25
+    100210: Wall26
+    100212: Wall28
+    100214: Wall29
+    100216: Wall3
+    100218: Wall30
+    100220: Wall31
+    100222: Wall32
+    100224: Wall34
+    100226: Wall35
+    100228: Wall36
+    100230: Wall4
+    100232: Wall5
+    100234: Wall6
+    100236: Wall7
+    100238: Wall8
+    100240: Wall9
+    400000: //RootNode
+    400002: Bubble1
+    400004: Bubble2
+    400006: Bubble3
+    400008: CAGE
+    400010: Cage1
+    400012: Cage2
+    400014: Cage3
+    400016: Cage4
+    400018: Cage5
+    400020: Cage7
+    400022: Cage8
+    400024: Cage9
+    400026: Door0
+    400028: Door0 1
+    400030: Door0 2
+    400032: Floor1
+    400034: Floor2
+    400036: Floor3
+    400038: Floor4
+    400040: Floor5
+    400042: Floor6
+    400044: MISC
+    400046: Pipe1
+    400048: Pipe2
+    400050: Pipe3
+    400052: Pipe4
+    400054: Pipe5
+    400056: Pipe6
+    400058: Pipe7
+    400060: PIPES
+    400062: Roof1
+    400064: Roof2
+    400066: Roof3
+    400068: Roof4
+    400070: SCAFFOLDS
+    400072: SlidePoly
+    400074: SmallBubble1
+    400076: SmallBubble2
+    400078: SmallBubble3
+    400080: SmallBubble4
+    400082: SmallBubble5
+    400084: SpacePod
+    400086: SpiralPoly
+    400088: SupportL1
+    400090: SupportL2
+    400092: SupportL3
+    400094: SupportL4
+    400096: SupportL5
+    400098: SupportL6
+    400100: SupportL7
+    400102: SupportL8
+    400104: SupportM1
+    400106: SupportM2
+    400108: SupportM3
+    400110: SupportM4
+    400112: SupportS1
+    400114: SupportS2
+    400116: SupportS3
+    400118: SupportS4
+    400120: TICTACTOE
+    400122: TicTacToe1
+    400124: TicTacToe1 1
+    400126: TicTacToe2
+    400128: TicTacToe2 1
+    400130: TicTacToe3
+    400132: TicTacToe3 1
+    400134: TicTacToe4
+    400136: TicTacToe4 1
+    400138: TicTacToe5
+    400140: TicTacToe5 1
+    400142: TicTacToe6
+    400144: TicTacToe6 1
+    400146: TicTacToe7
+    400148: TicTacToe7 1
+    400150: TicTacToe8
+    400152: TicTacToe8 1
+    400154: TicTacToe9
+    400156: TicTacToe9 1
+    400158: tower1
+    400160: tower2
+    400162: tower3
+    400164: tower4
+    400166: TOWERS
+    400168: Tube1
+    400170: Tube2
+    400172: Tube3
+    400174: TUBES
+    400176: TUNNELS
+    400178: Wall1
+    400180: Wall10
+    400182: Wall11
+    400184: Wall12
+    400186: Wall13
+    400188: Wall14
+    400190: Wall15
+    400192: Wall16
+    400194: Wall17
+    400196: Wall18
+    400198: Wall2
+    400200: Wall20
+    400202: Wall21
+    400204: Wall22
+    400206: Wall24
+    400208: Wall25
+    400210: Wall26
+    400212: Wall28
+    400214: Wall29
+    400216: Wall3
+    400218: Wall30
+    400220: Wall31
+    400222: Wall32
+    400224: Wall34
+    400226: Wall35
+    400228: Wall36
+    400230: Wall4
+    400232: Wall5
+    400234: Wall6
+    400236: Wall7
+    400238: Wall8
+    400240: Wall9
+    2100000: phongE_Blue
+    2100002: mia_material_x_BubbleWindow
+    2100004: phongE_Yellow
+    2100006: lambert1
+    2100008: phongE2
+    2100010: layeredShader_TTT
+    2100012: phongE_RedRoof
+    2100014: phongE_Red
+    2100016: phongE_BlueRoof
+    2100018: phongE_YellowRoof
+    2300000: Bubble1
+    2300002: Bubble2
+    2300004: Bubble3
+    2300006: Cage1
+    2300008: Cage2
+    2300010: Cage3
+    2300012: Cage4
+    2300014: Cage5
+    2300016: Cage7
+    2300018: Cage8
+    2300020: Cage9
+    2300022: Door0
+    2300024: Door0 1
+    2300026: Door0 2
+    2300028: Floor1
+    2300030: Floor2
+    2300032: Floor3
+    2300034: Floor4
+    2300036: Floor5
+    2300038: Floor6
+    2300040: Pipe1
+    2300042: Pipe2
+    2300044: Pipe3
+    2300046: Pipe4
+    2300048: Pipe5
+    2300050: Pipe6
+    2300052: Pipe7
+    2300054: Roof1
+    2300056: Roof2
+    2300058: Roof3
+    2300060: Roof4
+    2300062: SlidePoly
+    2300064: SmallBubble1
+    2300066: SmallBubble2
+    2300068: SmallBubble3
+    2300070: SmallBubble4
+    2300072: SmallBubble5
+    2300074: SpacePod
+    2300076: SpiralPoly
+    2300078: SupportL1
+    2300080: SupportL2
+    2300082: SupportL3
+    2300084: SupportL4
+    2300086: SupportL5
+    2300088: SupportL6
+    2300090: SupportL7
+    2300092: SupportL8
+    2300094: SupportM1
+    2300096: SupportM2
+    2300098: SupportM3
+    2300100: SupportM4
+    2300102: SupportS1
+    2300104: SupportS2
+    2300106: SupportS3
+    2300108: SupportS4
+    2300110: TicTacToe1
+    2300112: TicTacToe1 1
+    2300114: TicTacToe2
+    2300116: TicTacToe2 1
+    2300118: TicTacToe3
+    2300120: TicTacToe3 1
+    2300122: TicTacToe4
+    2300124: TicTacToe4 1
+    2300126: TicTacToe5
+    2300128: TicTacToe5 1
+    2300130: TicTacToe6
+    2300132: TicTacToe6 1
+    2300134: TicTacToe7
+    2300136: TicTacToe7 1
+    2300138: TicTacToe8
+    2300140: TicTacToe8 1
+    2300142: TicTacToe9
+    2300144: TicTacToe9 1
+    2300146: Tube1
+    2300148: Tube2
+    2300150: Tube3
+    2300152: Wall1
+    2300154: Wall10
+    2300156: Wall11
+    2300158: Wall12
+    2300160: Wall13
+    2300162: Wall14
+    2300164: Wall15
+    2300166: Wall16
+    2300168: Wall17
+    2300170: Wall18
+    2300172: Wall2
+    2300174: Wall20
+    2300176: Wall21
+    2300178: Wall22
+    2300180: Wall24
+    2300182: Wall25
+    2300184: Wall26
+    2300186: Wall28
+    2300188: Wall29
+    2300190: Wall3
+    2300192: Wall30
+    2300194: Wall31
+    2300196: Wall32
+    2300198: Wall34
+    2300200: Wall35
+    2300202: Wall36
+    2300204: Wall4
+    2300206: Wall5
+    2300208: Wall6
+    2300210: Wall7
+    2300212: Wall8
+    2300214: Wall9
+    3300000: Bubble1
+    3300002: Bubble2
+    3300004: Bubble3
+    3300006: Cage1
+    3300008: Cage2
+    3300010: Cage3
+    3300012: Cage4
+    3300014: Cage5
+    3300016: Cage7
+    3300018: Cage8
+    3300020: Cage9
+    3300022: Door0
+    3300024: Door0 1
+    3300026: Door0 2
+    3300028: Floor1
+    3300030: Floor2
+    3300032: Floor3
+    3300034: Floor4
+    3300036: Floor5
+    3300038: Floor6
+    3300040: Pipe1
+    3300042: Pipe2
+    3300044: Pipe3
+    3300046: Pipe4
+    3300048: Pipe5
+    3300050: Pipe6
+    3300052: Pipe7
+    3300054: Roof1
+    3300056: Roof2
+    3300058: Roof3
+    3300060: Roof4
+    3300062: SlidePoly
+    3300064: SmallBubble1
+    3300066: SmallBubble2
+    3300068: SmallBubble3
+    3300070: SmallBubble4
+    3300072: SmallBubble5
+    3300074: SpacePod
+    3300076: SpiralPoly
+    3300078: SupportL1
+    3300080: SupportL2
+    3300082: SupportL3
+    3300084: SupportL4
+    3300086: SupportL5
+    3300088: SupportL6
+    3300090: SupportL7
+    3300092: SupportL8
+    3300094: SupportM1
+    3300096: SupportM2
+    3300098: SupportM3
+    3300100: SupportM4
+    3300102: SupportS1
+    3300104: SupportS2
+    3300106: SupportS3
+    3300108: SupportS4
+    3300110: TicTacToe1
+    3300112: TicTacToe1 1
+    3300114: TicTacToe2
+    3300116: TicTacToe2 1
+    3300118: TicTacToe3
+    3300120: TicTacToe3 1
+    3300122: TicTacToe4
+    3300124: TicTacToe4 1
+    3300126: TicTacToe5
+    3300128: TicTacToe5 1
+    3300130: TicTacToe6
+    3300132: TicTacToe6 1
+    3300134: TicTacToe7
+    3300136: TicTacToe7 1
+    3300138: TicTacToe8
+    3300140: TicTacToe8 1
+    3300142: TicTacToe9
+    3300144: TicTacToe9 1
+    3300146: Tube1
+    3300148: Tube2
+    3300150: Tube3
+    3300152: Wall1
+    3300154: Wall10
+    3300156: Wall11
+    3300158: Wall12
+    3300160: Wall13
+    3300162: Wall14
+    3300164: Wall15
+    3300166: Wall16
+    3300168: Wall17
+    3300170: Wall18
+    3300172: Wall2
+    3300174: Wall20
+    3300176: Wall21
+    3300178: Wall22
+    3300180: Wall24
+    3300182: Wall25
+    3300184: Wall26
+    3300186: Wall28
+    3300188: Wall29
+    3300190: Wall3
+    3300192: Wall30
+    3300194: Wall31
+    3300196: Wall32
+    3300198: Wall34
+    3300200: Wall35
+    3300202: Wall36
+    3300204: Wall4
+    3300206: Wall5
+    3300208: Wall6
+    3300210: Wall7
+    3300212: Wall8
+    3300214: Wall9
+    4300000: SpacePod
+    4300002: SmallBubble1
+    4300004: SmallBubble2
+    4300006: SmallBubble3
+    4300008: SmallBubble4
+    4300010: SmallBubble5
+    4300012: Bubble3
+    4300014: Cage1
+    4300016: Cage2
+    4300018: Cage3
+    4300020: Cage4
+    4300022: Cage7
+    4300024: Cage8
+    4300026: SupportS4
+    4300028: SupportL2
+    4300030: SupportL1
+    4300032: SupportL3
+    4300034: SupportL4
+    4300036: SupportL5
+    4300038: SupportL6
+    4300040: SupportL7
+    4300042: SupportL8
+    4300044: SupportM1
+    4300046: SupportM2
+    4300048: SupportM3
+    4300050: SupportM4
+    4300052: SupportS1
+    4300054: SupportS2
+    4300056: SupportS3
+    4300058: Cage5
+    4300060: TicTacToe1
+    4300062: TicTacToe2
+    4300064: TicTacToe3
+    4300066: TicTacToe4
+    4300068: TicTacToe5
+    4300070: TicTacToe6
+    4300072: TicTacToe7
+    4300074: TicTacToe8
+    4300076: TicTacToe9
+    4300078: Cage9
+    4300080: TicTacToe1
+    4300082: TicTacToe2
+    4300084: TicTacToe3
+    4300086: TicTacToe4
+    4300088: TicTacToe5
+    4300090: TicTacToe6
+    4300092: TicTacToe7
+    4300094: TicTacToe8
+    4300096: TicTacToe9
+    4300098: Roof1
+    4300100: Floor1
+    4300102: Floor2
+    4300104: Bubble1
+    4300106: Wall1
+    4300108: Wall2
+    4300110: Wall3
+    4300112: Wall4
+    4300114: Wall5
+    4300116: Wall6
+    4300118: Wall7
+    4300120: Wall8
+    4300122: Wall9
+    4300124: Wall10
+    4300126: Wall35
+    4300128: Door0
+    4300130: Roof2
+    4300132: Floor4
+    4300134: Floor3
+    4300136: Bubble2
+    4300138: Wall11
+    4300140: Wall12
+    4300142: Wall13
+    4300144: Wall14
+    4300146: Wall15
+    4300148: Wall16
+    4300150: Wall17
+    4300152: Wall18
+    4300154: Wall20
+    4300156: Wall21
+    4300158: Wall22
+    4300160: Roof3
+    4300162: Floor5
+    4300164: Floor6
+    4300166: Wall24
+    4300168: Wall25
+    4300170: Wall26
+    4300172: Wall28
+    4300174: Wall29
+    4300176: Wall36
+    4300178: Door0
+    4300180: Roof4
+    4300182: Wall32
+    4300184: Wall34
+    4300186: Door0
+    4300188: Wall30
+    4300190: Wall31
+    4300192: Pipe1
+    4300194: Pipe2
+    4300196: Pipe3
+    4300198: Pipe4
+    4300200: Pipe5
+    4300202: Pipe6
+    4300204: Pipe7
+    4300206: Tube1
+    4300208: Tube2
+    4300210: Tube3
+    4300212: SlidePoly
+    4300214: SpiralPoly
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
