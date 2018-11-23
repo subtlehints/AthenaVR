@@ -8,7 +8,7 @@ public class MoveStraight : MonoBehaviour {
     public Transform target2;
     public Transform target3;
     public Transform vrCamera;
-    public float toggleAngle = 10.0f;
+    public float toggleAngle;
     public float speed;
     private int stage = 0;
     // Use this for initialization
@@ -65,7 +65,7 @@ public class MoveStraight : MonoBehaviour {
         }
         else
         {
-            speed = 3 ;
+            speed = 2 ;
         }
         
     }
